@@ -1,0 +1,101 @@
+id,name,address,city,zip,state,phone_number
+1,Oyondu,Suite 75,El Paso,79905,TX,915-766-7704
+2,Quamba,Suite 28,Vienna,22184,VA,571-403-8473
+3,Podcat,Apt 402,Anderson,46015,IN,765-729-7809
+4,Centimia,7th Floor,Ventura,93005,CA,805-848-6120
+5,Rhynoodle,Room 163,Fort Pierce,34981,FL,772-485-7287
+6,Plajo,Suite 14,Richmond,23289,VA,804-628-3007
+7,Midel,PO Box 65606,Portsmouth,03804,NH,603-841-0489
+8,Dabtype,PO Box 32267,Boca Raton,33432,FL,561-191-2432
+9,Twinte,Room 252,Minneapolis,55480,MN,612-223-0607
+10,Tanoodle,Room 550,Knoxville,37914,TN,865-480-8298
+11,LiveZ,PO Box 19154,Grand Rapids,49518,MI,616-213-6734
+12,Eare,PO Box 4366,Cincinnati,45296,OH,513-412-7183
+13,Trupe,Apt 1768,Evanston,60208,IL,847-111-9051
+14,Dazzlesphere,PO Box 75224,San Antonio,78250,TX,210-904-2545
+15,Devpulse,PO Box 75465,Oklahoma City,73197,OK,405-803-4379
+16,Livepath,Suite 52,Milwaukee,53225,WI,414-546-3220
+17,Wordify,Apt 1373,Tampa,33610,FL,813-529-5165
+18,Npath,PO Box 34522,Amarillo,79182,TX,806-806-7064
+19,Teklist,Apt 481,New York City,10079,NY,212-313-1602
+20,Tagfeed,Suite 62,Birmingham,35210,AL,334-214-8264
+21,Youspan,Room 1157,Anaheim,92812,CA,714-643-3253
+22,Dabfeed,7th Floor,Philadelphia,19184,PA,215-100-4376
+23,Dynazzy,Suite 12,Billings,59112,MT,406-272-9751
+24,Pixope,PO Box 41224,Oklahoma City,73147,OK,405-183-7279
+25,Twitterwire,Suite 71,Houston,77065,TX,832-293-3703
+26,Flipopia,Room 1424,Austin,78778,TX,512-325-2785
+27,Feedfire,Apt 1866,Lawrenceville,30245,GA,404-757-8486
+28,Twitterlist,Apt 1328,Phoenix,85062,AZ,602-191-7626
+29,Skippad,Room 1137,Evansville,47732,IN,812-955-1979
+30,Yodoo,Apt 997,Tampa,33620,FL,813-190-9763
+31,Feedmix,PO Box 11258,Waterbury,06705,CT,203-900-3770
+32,Camimbo,Room 195,El Paso,79999,TX,915-924-4142
+33,Talane,Suite 94,San Jose,95133,CA,408-955-8127
+34,Mycat,11th Floor,Macon,31210,GA,478-917-6676
+35,Skalith,3rd Floor,Wilkes Barre,18763,PA,570-964-4266
+36,Jazzy,18th Floor,Van Nuys,91406,CA,626-694-1149
+37,Nlounge,Apt 1821,Irvine,92717,CA,714-648-3293
+38,Realfire,Room 1731,Wichita,67205,KS,316-266-4894
+39,Pixonyx,3rd Floor,Houston,77040,TX,281-423-9226
+40,Kimia,Apt 1745,Oklahoma City,73157,OK,405-826-0026
+41,Yambee,20th Floor,Minneapolis,55470,MN,612-852-6684
+42,Demizz,PO Box 99496,Rochester,14639,NY,585-254-5441
+43,Bubblebox,Apt 1137,Hagerstown,21747,MD,240-354-2159
+44,Centimia,Suite 56,Charleston,25321,WV,304-826-1461
+45,Quinu,4th Floor,Miami,33190,FL,786-822-7637
+46,Oyoyo,14th Floor,Fort Worth,76105,TX,817-744-4232
+47,Kare,Room 618,Kansas City,64101,MO,816-951-3815
+48,Livefish,PO Box 67498,Houston,77218,TX,713-217-6800
+49,Quatz,1st Floor,Washington,20425,DC,202-225-3922
+50,Plajo,Room 1861,Tyler,75799,TX,903-519-9382
+51,Divape,Suite 6,Charlotte,28299,NC,704-678-6976
+52,Rooxo,15th Floor,Aiken,29805,SC,803-325-0408
+53,LiveZ,4th Floor,Fort Worth,76129,TX,817-302-0026
+54,Buzzster,Apt 1076,Charlotte,28230,NC,704-429-9569
+55,Jaxbean,PO Box 76095,Portsmouth,23705,VA,757-846-3987
+56,Topiczoom,Room 196,Washington,20591,DC,202-755-4921
+57,Yoveo,Apt 98,Orlando,32885,FL,407-693-7860
+58,Tagtune,PO Box 59286,Newark,07188,NJ,862-102-3785
+59,Zoomdog,PO Box 70199,San Diego,92191,CA,619-422-0382
+60,Jaloo,Apt 1504,Springfield,01129,MA,413-579-2971
+61,Dazzlesphere,PO Box 73501,Milwaukee,53220,WI,414-259-9199
+62,Eadel,PO Box 27812,Jackson,39236,MS,601-650-2991
+63,Topicblab,Suite 94,Savannah,31416,GA,912-860-5922
+64,Voonyx,Apt 990,Raleigh,27690,NC,919-386-9860
+65,Shufflester,Room 1096,Madison,53705,WI,608-691-7685
+66,Yombu,Apt 1740,El Paso,88574,TX,915-925-9439
+67,Jatri,PO Box 89752,Toledo,43605,OH,419-394-5186
+68,Realpoint,Room 1133,Tulsa,74103,OK,918-357-3661
+69,Jamia,Suite 60,Orlando,32830,FL,407-684-0223
+70,Bluezoom,Apt 1460,Bowie,20719,MD,240-542-2248
+71,Voonix,PO Box 32314,Newton,02162,MA,508-605-2055
+72,Cogilith,3rd Floor,Rochester,14683,NY,585-432-5796
+73,Buzzster,PO Box 14257,Richmond,23237,VA,804-471-4393
+74,Blogtags,PO Box 10453,San Francisco,94132,CA,415-564-9206
+75,Innotype,Apt 1588,Pittsburgh,15279,PA,412-712-6583
+76,Tagtune,Room 1275,Los Angeles,90015,CA,323-117-6156
+77,Teklist,1st Floor,Spring Hill,34611,FL,352-900-7006
+78,Voonyx,Room 1653,Van Nuys,91411,CA,213-363-5608
+79,Photobug,PO Box 66364,San Francisco,94132,CA,415-118-6407
+80,Wordtune,PO Box 61912,Atlanta,30316,GA,770-180-3697
+81,Rhynyx,Room 714,Englewood,80150,CO,303-627-8192
+82,Trupe,PO Box 41687,Cincinnati,45223,OH,513-778-9009
+83,Flipopia,Suite 46,Montgomery,36119,AL,334-677-1097
+84,Agimba,Suite 4,Flushing,11355,NY,718-838-3168
+85,Meejo,Apt 1989,Nashville,37245,TN,615-133-2708
+86,Aimbo,Suite 20,Kissimmee,34745,FL,407-780-7025
+87,Kayveo,Suite 24,Buffalo,14220,NY,716-567-7180
+88,Thoughtblab,PO Box 61959,Van Nuys,91406,CA,323-749-9677
+89,Linkbridge,PO Box 12980,Dayton,45432,OH,937-217-9001
+90,Devcast,Room 910,Toledo,43610,OH,419-180-4620
+91,Eidel,PO Box 66486,San Antonio,78265,TX,210-703-8522
+92,Eamia,9th Floor,Battle Creek,49018,MI,269-296-5365
+93,Tagchat,Room 381,Orlando,32835,FL,407-217-9771
+94,Linkbridge,Suite 71,Charlotte,28205,NC,704-783-8648
+95,Feedfish,PO Box 30092,Saint Joseph,64504,MO,816-562-5140
+96,Eidel,Apt 1534,Houston,77260,TX,713-414-3530
+97,Gabspot,PO Box 54620,Muskegon,49444,MI,231-389-3711
+98,Photobean,Apt 1555,High Point,27264,NC,336-472-0089
+99,Rooxo,Apt 199,Corpus Christi,78465,TX,361-756-0104
+100,Jabberstorm,Suite 94,Kent,98042,WA,206-110-2133
