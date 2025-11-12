@@ -1,1 +1,1 @@
-just some basic projects at school 
+just some basic projects at school .
